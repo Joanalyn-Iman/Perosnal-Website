@@ -745,9 +745,7 @@ hr {
 
 @media screen and (min-width: 720px)  
 {
-    .slideshow-container {
-        height: 400px;
-    }
+  
     .mySlides img {
         height: 400px;
     }
@@ -830,9 +828,7 @@ hr {
         padding: 3rem;
     }
 
-    .slideshow-container {
-        height: 400px;
-    }
+   
     .mySlides img {
         height: 400px;
     }
@@ -880,9 +876,8 @@ hr {
     }
     
 
-    .slideshow-container {
-        height: 500px;
-    }
+   
+    
     .mySlides img {
         height: 500px;
     }
@@ -975,9 +970,8 @@ hr {
         column-gap: 2rem;
     }
 
-    .slideshow-container {
-        height: 600px;
-    }
+   
+    
     .mySlides img {
         height: 600px;
     }
